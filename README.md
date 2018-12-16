@@ -1,7 +1,7 @@
 # FileTransporter
 
 ### 这是一个基于socket(TCP)的文件(夹)传输程序
-下载地址 https://github.com/Ccapton/python-stuff/releases/download/v1.0/ft.zip
+ 
 ### `预览效果`
 ![](resource/runserver2.jpeg)
 ![](resource/runclient2.jpeg)
